@@ -1,11 +1,4 @@
-/*
- * Problem: LeetCode 1929 - Concatenation of Array
- * Difficulty: Easy
- * Time Complexity: O(n) - Single pass traversal through the array of size n
- * Space Complexity: O(n) - Allocated a new result array of size 2n
- */
-
-class Solution {
+class Leetcode_1929_Concentration{
     public int[] getConcatenation(int[] nums) {
         int n = nums.length;
         int[] ans = new int[2 * n];
