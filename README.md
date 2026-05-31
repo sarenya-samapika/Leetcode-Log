@@ -12,6 +12,7 @@ My collection of production-grade solutions to data structures and algorithms ch
 | 1672 | Richest Customer Wealth | Easy | [Java](./Arrays/LeetCode_1672_RichestCustomer.java) | 2D Matrix traversal & nested loop accumulation |
 | 2235 | Add Two Integers | Easy | [Java](./addtwomatrix.java) | Basic arithmetic execution |
 | 2469 | Convert the Temperature | Easy | [Java](./convertTemperature.java) | Floating-point formula application |
+| 1108 | Defanging an IP Address | Easy | [Java](./Arrays/Leetcode_1108_VPAddress.java) | String manipulation & in-place array/StringBuilder traversal |
 
 ## 🛠️ Performance Tracking
 * **Languages Used:** Java (Core Engine)
