@@ -17,6 +17,5 @@ public class leetcode_1431_kids_with_candies {
             }
         }
         return ans;
-
     }
 }
